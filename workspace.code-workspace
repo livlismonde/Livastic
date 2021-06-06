@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/web"
+		},
+		{
+			"path": "../../Desktop/LIVASTICWEBSITE"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LIVASTICWEBSITE"
+	}
+}
